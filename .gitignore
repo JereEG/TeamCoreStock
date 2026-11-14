@@ -1,0 +1,14 @@
+# Binarios y objetos compilados en C
+*.exe
+*.o
+*.obj
+*.out
+
+# Archivos generados por Dev-C++
+*.layout
+Makefile.win
+
+# Editores y sistema operativo
+.vscode/
+.DS_Store
+Thumbs.db
